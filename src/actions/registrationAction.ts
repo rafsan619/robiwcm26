@@ -68,7 +68,7 @@ export const submitRegistration = async (
         const { data, error } = await resend.emails.send({
             from: 'Zeneti Esports <noreply@email.zeneticesports.com>',
             to: [vData.email],
-            subject: 'Robi Mobile Mania 2026 Registration Confirmation',
+            subject: 'Robi World Cup Mania 2026 Registration Confirmation',
             react: RegConfirmationEmail({
                 name: vData.fullName,
                 timestamp: new Date(),

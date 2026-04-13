@@ -8,7 +8,7 @@ export const siteData: TSiteData = {
   name: tourData.name,
   shortName: tourData.shortName,
   publisher: "zeneticesports.com",
-  baseUrl: "robimm26.vercel.app",
+  baseUrl: "robiwcm26.vercel.app",
   description:
     `A tournament hosted by Robi & Zenetic Esports. Featuring a total prize pool of ${tourData.prizePool}, the tournament will be broadcast in Bengali for 4 hours daily, bringing intense rivalries to life.`,
   ogImage: { src: '/ogImage.png', alt: 'Bunext', width: 1200, height: 630 },

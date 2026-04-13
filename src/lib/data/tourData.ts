@@ -1,10 +1,10 @@
 
 export const tourData = {
-    name: "Robi Mobile Mania 2026",
-    shortName: "robimm26",
-    codeName: "robimm26",
+    name: "Robi World Cup Mania 2026",
+    shortName: "robiwcm26",
+    codeName: "robiwcm26",
     logo: "/logo.png",
-    prizePool: "00,00,000.00 BDT",
+    prizePool: "10,00,000.00 BDT",
     emailAddress: "noreply@email.zeneticesports.com",
 }
 
@@ -74,7 +74,7 @@ export const games: typeof gamesData = gamesData
 // export const rulebooks = {
 //     fc25: {
 //         url: "https://nysbp6tkf5.ufs.sh/f/wKNWEI3FuoqhR5mxKLXKCYZUq8uGzO3WtFVI0EQ6RwcABmfP",
-//         title: "Robi Mobile Mania Rulebook",
+//         title: "Robi World Cup Mania Rulebook",
 //         description: `The rulebook for ${tourData.name}`,
 //         redirect: false,
 //     },
